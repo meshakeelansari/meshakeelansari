@@ -8,12 +8,12 @@ I build scalable, production-ready web applications with clean architecture and 
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer with experience in frontend and backend development
-- 🔹 Strong in React.js for modern UI development
-- 🔹 Backend expertise in Node.js, Express, and .NET Web API
-- 🔹 Database experience with SQL Server, PostgreSQL, and MongoDB
-- 🔹 Experience deploying applications to cloud platforms
-- 📍 Based in India | Open to MNC, Startup, and Remote Opportunities
+- Full-Stack Developer with experience in frontend and backend development
+- Strong in React.js for modern UI development
+- Backend expertise in Node.js, Express, and .NET Web API
+- Database experience with SQL Server, PostgreSQL, and MongoDB
+- Experience deploying applications to cloud platforms
+- Based in India | Open to MNC, Startup, and Remote Opportunities
 
 ---
 
