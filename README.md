@@ -47,8 +47,8 @@ I build scalable, production-ready web applications with clean architecture and 
 
 ### 🔹 Portfolio Website
 Modern React-based developer portfolio  
-👉 Live Demo: (Add Link)  
-👉 Repository: https://github.com/your-username/portfolio
+👉 Live Demo: https://meshakeelansari.github.io/portfolio  
+👉 Repository: https://github.com/meshakeelansari/portfolio
 
 ---
 
